@@ -1,0 +1,20 @@
+# Environments
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Output folder
+output/
