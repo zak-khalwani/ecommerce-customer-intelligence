@@ -1,0 +1,26 @@
+"rfm_segment","state","total_customers","pct_of_segment_customers","total_revenue","pct_of_segment_revenue","geo_rank"
+At Risk,SP,10339,44.14,1881097.06,40.16,1
+At Risk,RJ,2849,12.16,580679.70,12.40,2
+At Risk,MG,2744,11.72,550061.94,11.74,3
+At Risk,RS,1216,5.19,268428.55,5.73,4
+At Risk,PR,1188,5.07,233801.88,4.99,5
+Champions,SP,9183,39.42,1532107.27,35.58,1
+Champions,RJ,3169,13.60,634744.70,14.74,2
+Champions,MG,2796,12.00,500639.51,11.63,3
+Champions,RS,1355,5.82,258066.77,5.99,4
+Champions,PR,1178,5.06,212964.80,4.95,5
+Hibernating,SP,5501,46.94,772900.23,40.38,1
+Hibernating,RJ,1352,11.54,230999.15,12.07,2
+Hibernating,MG,1287,10.98,210150.05,10.98,3
+Hibernating,RS,580,4.95,90329.87,4.72,4
+Hibernating,PR,571,4.87,94854.45,4.96,5
+Needs Attention,SP,4881,42.22,708282.77,38.45,1
+Needs Attention,RJ,1409,12.19,222903.59,12.10,2
+Needs Attention,MG,1340,11.59,215740.41,11.71,3
+Needs Attention,PR,634,5.48,104248.19,5.66,4
+Needs Attention,RS,632,5.47,104036.27,5.65,5
+Potential Loyalists,SP,9252,39.54,1317581.81,34.90,1
+Potential Loyalists,RJ,3138,13.41,547088.42,14.49,2
+Potential Loyalists,MG,2835,12.11,464606.56,12.31,3
+Potential Loyalists,RS,1385,5.92,216038.52,5.72,4
+Potential Loyalists,PR,1198,5.12,184928.63,4.90,5

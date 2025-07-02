@@ -1,0 +1,26 @@
+"rfm_segment","product_category_name","total_revenue","pct_of_segment_revenue","total_orders","pct_of_segment_orders","revenue_rank"
+At Risk,health_beauty,408878.39,10.11,2552,10.05,1
+At Risk,watches_gifts,381095.59,9.43,1712,6.74,2
+At Risk,bed_bath_table,321156.51,7.94,2364,9.31,3
+At Risk,sports_leisure,290604.61,7.19,1904,7.50,4
+At Risk,computers_accessories,280670.94,6.94,1912,7.53,5
+Champions,bed_bath_table,346394.05,8.95,2619,10.54,1
+Champions,health_beauty,301704.02,7.79,1940,7.81,2
+Champions,sports_leisure,298479.31,7.71,2000,8.05,3
+Champions,watches_gifts,269019.73,6.95,1124,4.52,4
+Champions,computers_accessories,266503.72,6.88,1476,5.94,5
+Hibernating,health_beauty,224206.70,11.79,1297,10.96,1
+Hibernating,watches_gifts,166453.05,8.75,828,7.00,2
+Hibernating,bed_bath_table,143799.29,7.56,1073,9.06,3
+Hibernating,housewares,138916.05,7.30,921,7.78,4
+Hibernating,furniture_decor,109357.69,5.75,686,5.80,5
+Needs Attention,health_beauty,186637.93,10.15,1097,9.43,1
+Needs Attention,watches_gifts,159305.46,8.67,703,6.04,2
+Needs Attention,computers_accessories,150644.72,8.19,1038,8.92,3
+Needs Attention,sports_leisure,148610.82,8.08,987,8.48,4
+Needs Attention,bed_bath_table,129890.24,7.07,1020,8.77,5
+Potential Loyalists,health_beauty,290662.49,7.72,1761,7.47,1
+Potential Loyalists,watches_gifts,288459.29,7.66,1128,4.79,2
+Potential Loyalists,bed_bath_table,283969.17,7.54,2196,9.32,3
+Potential Loyalists,sports_leisure,272440.36,7.24,1879,7.98,4
+Potential Loyalists,computers_accessories,239994.02,6.38,1408,5.98,5
