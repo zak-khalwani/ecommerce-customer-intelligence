@@ -152,7 +152,7 @@ Based on the comprehensive analysis, two key initiatives are recommended:
     *   The process is complete when the `etl_pipeline` container exits with code 0. Your database is now populated and ready.
 
 4.  **Run the Analysis:**
-    *   You can now connect to the PostgreSQL database using a client like DBeaver or run the SQL scripts in `sql_analysis/`.
+    *   You can now connect to the PostgreSQL database using a client like DBeaver or run the SQL scripts in `sql_scripts/`.
     *   To run the final report, launch Jupyter Notebook:
     ```bash
     jupyter notebook
