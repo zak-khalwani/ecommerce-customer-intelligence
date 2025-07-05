@@ -1,4 +1,4 @@
-# E-commerce Customer Intelligence: From RFM Segmentation to a Modeled ROI Strategy
+# Global Mart Customer Intelligence: From RFM Segmentation to a Modeled ROI Strategy
 
 This repository showcases an end-to-end data analysis project that transforms raw e-commerce data into a strategic action plan. It demonstrates how to diagnose critical business problems like customer churn and low engagement, and how to build a quantitative, data-driven business case for specific marketing initiatives.
 
